@@ -11,11 +11,6 @@ basic.showtring(":)")
 ## Step 2
 
 Send et signal til radiokanalen
-```blocks
-basic.forever(function () {
-servos.P0.setAngle(90)
-basic.pause(100)
-```
 
 
 ## Step 3

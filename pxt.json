@@ -1,5 +1,5 @@
 {
-    "name": "Radiokommunikasjon",
+    "name": "Radiokommunikasjon - Copy - Copy",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,9 @@
     "files": [
         "main.ts",
         "README.md",
-        "Oppgave.md"
+        "Oppgave.md",
+        "_locales/nb/Oppgave.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
