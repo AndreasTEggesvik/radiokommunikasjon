@@ -6,6 +6,7 @@ Motta signalet på radiokanalen
 
 ```blocks
 basic.showtring(":)")
+basic.showNumber(0)
 ```
 
 ## Step 2
